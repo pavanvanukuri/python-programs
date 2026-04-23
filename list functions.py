@@ -1,0 +1,14 @@
+list1=[2,4,5,6,3]
+list2=[3,7,8,9,0]
+print(len(list2))
+print(max(list1))
+print(max(list2))
+print(sum(list1))
+list3=list("hello")
+print(list3)
+a=[1,2,3,4,5]
+a.extend([8,10])
+print(a)
+b=[1,2,[3,4],5,6]
+print(b)
+print(len(b))
